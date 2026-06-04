@@ -1,0 +1,16 @@
+# Dependencies
+**/node_modules/
+**/venv/
+**/.venv/
+**/*.pyc
+**/__pycache__/
+
+# Environment & Credentials
+**/.env
+**/.env.local
+**/.env.*.local
+
+# Production Builds & Logs
+**/dist/
+**/*.log
+**/.DS_Store
